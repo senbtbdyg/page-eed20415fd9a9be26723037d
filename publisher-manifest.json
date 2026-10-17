@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "013112435a326aa9fc606780",
+  "owner": "senbtbdyg",
+  "repo": "page-eed20415fd9a9be26723037d",
+  "title": "Tifa",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "eed20415fd9a9be26723037d",
+      "a": "Tifa",
+      "b": "",
+      "entity": "Tifa",
+      "brand": "Tifa",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f129b6eb07591934bfc065254f60320e5c49d84dfc058fe98899a97f3bf17eb0",
+      "content": {
+        "keyword1": "Tifa",
+        "keyword2": "",
+        "primary_entity": "Tifa",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Tifa 提供简洁利落的数字网络连接服务。探索长文叙事般的极速体验，查阅透明的套餐与常见问题。",
+          "AI_DESCRIPTION": "Tifa 提供简洁利落的数字网络连接服务。探索长文叙事般的极速体验，查阅透明的套餐与常见问题。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #0b0f0e;--panel-bg: #131a18;--text-main: #e2ede8;--text-muted: #8fa69b;--accent: #00ff66;--accent-dim: rgba(0, 255, 102, 0.15);--border-color: #1f2e27;--shadow: 0 16px 32px rgba(0, 0, 0, 0.4);--radius: 16px}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg-color);color: var(--text-main);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.7;letter-spacing: 0.02em}\na {color: inherit;text-decoration: none}\nheader {border-bottom: 1px solid var(--border-color);padding: 1.5rem 2rem;display: flex;justify-content: space-between;align-items: center;background-color: var(--bg-color);position: sticky;top: 0;z-index: 100}\n.brand-logo {font-size: 1.5rem;font-weight: 800;color: var(--accent);letter-spacing: 0.05em}\nnav.inline-anchors {display: flex;gap: 2rem}\nnav.inline-anchors a {font-size: 0.95rem;color: var(--text-muted);transition: color 0.2s}\nnav.inline-anchors a:hover {color: var(--accent)}\nmain {max-width: 1100px;margin: 0 auto;padding: 4rem 2rem}\n.hero-article {margin-bottom: 6rem;max-width: 800px}\n.hero-article h1 {font-size: 3.5rem;font-weight: 900;margin-bottom: 1.5rem;color: var(--accent);line-height: 1.2}\n.hero-article .subtitle {font-size: 1.25rem;color: var(--text-muted);margin-bottom: 2.5rem;font-weight: 300}\n.article-body p {font-size: 1.1rem;margin-bottom: 1.5rem;color: var(--text-main)}\nsection {margin-bottom: 6rem}\nh2 {font-size: 2rem;margin-bottom: 2rem;font-weight: 700;border-left: 4px solid var(--accent);padding-left: 1rem}\n.plans-table-wrapper {overflow-x: auto;background: var(--panel-bg);border-radius: var(--radius);box-shadow: var(--shadow);border: 1px solid var(--border-color)}\n.plans-table {width: 100%;border-collapse: collapse;text-align: left}\n.plans-table th, .plans-table td {padding: 1.5rem;border-bottom: 1px solid var(--border-color)}\n.plans-table th {background-color: rgba(0, 255, 102, 0.05);color: var(--accent);font-weight: 700}\n.plans-table tr:last-child td {border-bottom: none}\n.plan-featured {background-color: var(--accent-dim);color: var(--accent);padding: 0.2rem 0.6rem;border-radius: 4px;font-size: 0.8rem;margin-left: 0.5rem}\n.clients-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 2rem}\n.client-card {background: var(--panel-bg);border-radius: var(--radius);padding: 2rem;box-shadow: var(--shadow);border: 1px solid var(--border-color)}\n.client-card h3 {font-size: 1.25rem;margin-bottom: 1rem;color: var(--accent)}\n.client-card p {color: var(--text-muted);margin-bottom: 1.5rem;font-size: 0.95rem}\n.btn {display: inline-block;background-color: var(--accent);color: var(--bg-color);padding: 0.75rem 1.5rem;border-radius: 8px;font-weight: 700;transition: opacity 0.2s}\n.btn:hover {opacity: 0.85}\n.faq-dual {display: grid;grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));gap: 2.5rem}\n.faq-item {background: var(--panel-bg);padding: 2rem;border-radius: var(--radius);box-shadow: var(--shadow);border: 1px solid var(--border-color)}\n.faq-item h3 {font-size: 1.1rem;margin-bottom: 1rem;color: var(--accent)}\n.faq-item p {color: var(--text-muted);font-size: 0.95rem}\nfooter {border-top: 1px solid var(--border-color);padding: 3rem 2rem;text-align: center;color: var(--text-muted);font-size: 0.9rem}\n@media (max-width: 768px) {\n  .hero-article h1 {font-size: 2.5rem}\n  header {flex-direction: column;gap: 1rem}\n  nav.inline-anchors {gap: 1rem}\n}\n</style><header>\n  <div class=\"brand-logo\">Tifa</div>\n  <nav class=\"inline-anchors\">\n    <a href=\"#plans\">套餐方案</a>\n    <a href=\"#clients\">客户端支持</a>\n    <a href=\"#faq\">常见问题</a>\n  </nav>\n</header>\n\n<main>\n  <div class=\"hero-article\">\n    <h1>Tifa · 重塑数字边界</h1>\n    <div class=\"subtitle\">在信息交织的时代，速度与秩序是核心。Tifa 呈现长文般的纯粹结构，剥离冗余，只留直击本质的连接体验。</div>\n    <div class=\"article-body\">\n      <p>网络不仅是传输媒介，它是思维的延伸。我们审视每一处节点，精简每一项配置，确保数据在暗流涌动中始终保持精准定向与平稳吞吐。</p>\n      <p>没有华而不实的修饰，没有繁复多变的操作。Tifa 以克制的黑绿视界，诠释高效的底层逻辑。在这里，每一个字节的跃迁都井然有序。</p>\n    </div>\n  </div>\n\n  <section id=\"plans\">\n    <h2>方案与定价</h2>\n    <div class=\"plans-table-wrapper\">\n      <table class=\"plans-table\">\n        <thead>\n          <tr>\n            <th>套餐类型</th>\n            <th>月付价格</th>\n            <th>年付优惠</th>\n            <th>核心权益</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td><strong>基础版</strong></td>\n            <td>¥15/月</td>\n            <td>¥150/年</td>\n            <td>每月 100GB 极速流量 / 3 台设备在线 / 基础流媒体解锁 / 普通节点池</td>\n          </tr>\n          <tr>\n            <td><strong>旗舰版</strong><span class=\"plan-featured\">推荐</span></td>\n            <td>¥35/月</td>\n            <td>¥350/年</td>\n            <td>每月 300GB 极速流量 / 5 台设备在线 / 全节点原生解锁 / IPLC 专线优化 / 7x24 工单支持</td>\n          </tr>\n          <tr>\n            <td><strong>团队版</strong></td>\n            <td>¥85/月</td>\n            <td>¥850/年</td>\n            <td>每月 1000GB 极速流量 / 20 台设备在线 / VIP 高带宽节点 / 企业定制路由 / 专属经理</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </section>\n\n  <section id=\"clients\">\n    <h2>客户端与适配</h2>\n    <div class=\"clients-grid\">\n      <div class=\"client-card\">\n        <h3>多平台接入</h3>\n        <p>适配主流桌面与移动操作系统，保持统一的界面语言与极低资源占用。</p>\n        <a href=\"#\" class=\"btn\">查看指引</a>\n      </div>\n      <div class=\"client-card\">\n        <h3>协议兼容</h3>\n        <p>支持行业标准传输协议，确保高吞吐量与连接瞬时响应能力。</p>\n        <a href=\"#\" class=\"btn\">了解协议</a>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n    <div class=\"faq-dual\">\n      <div class=\"faq-item\">\n        <h3>如何开始使用 Tifa 的服务？</h3>\n        <p>选择适合您的套餐，完成订阅后获取专属节点配置，导入对应客户端即可接入。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>支持哪些支付方式？</h3>\n        <p>我们支持主流的在线支付渠道，交易过程安全加密，即时开通服务。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>套餐流量如何计算与重置？</h3>\n        <p>流量按自然月周期重置，未使用的流量不累计至下一周期。详情可查阅用户协议。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>遇到连接波动该如何处理？</h3>\n        <p>建议切换至专线节点或检查客户端订阅更新。旗舰版用户可直接提交优先工单。</p>\n      </div>\n    </div>\n  </section>\n</main>\n\n<footer>\n  <p>© Tifa Digital Service. 保留所有权利。</p>\n</footer>",
+          "hash": "c394f694cc0cb54a8371fc35f20d86886f0fd2873ecaef8b823afa76b83710e4",
+          "seo": {
+            "title": "Tifa - 专栏式数字连接与网络服务",
+            "keywords": "Tifa, 网络连接, 专线加速, 流量套餐, 客户端下载",
+            "description": "Tifa 提供简洁利落的数字网络连接服务。探索长文叙事般的极速体验，查阅透明的套餐与常见问题。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "9620",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "io4vlh0.cn",
+    "host": "p-1c9c048a7d.io4vlh0.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "2cf821e355c2c5f45ede30bafb21aaaf9d135c55d3c57e371a55e05f6af96ad7",
+    "sitemap.xml": "b19b658527205460c383b29fa59a2e4b59220eb7e3849ffad551180a1a63cb7a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1248025d7a159bf19ea710a4657af9e99520fe5e5b4ab326fa34194f22cb5f79",
+    "robots.txt": "59090eadafc969b50451345235a128e054bea2d04dcae67aa99d8943b11aaa99",
+    "e2b95e66ac031ae45a9118cebc3936c3.txt": "e5924e1e4b6eb16b855343cdd02ddbeed3aae57597af28f4518fe81652a4d83b"
+  },
+  "revision": "59a34189cf55972258280c203fd1c40088798481c3c65855572520e3a7a1e6fe"
+}
